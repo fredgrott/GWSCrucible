@@ -1,3 +1,5 @@
+![crucible](./art/crucible.png)
+
 GWSCrucible
 ===========
 
